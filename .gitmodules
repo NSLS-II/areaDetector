@@ -127,3 +127,7 @@
 [submodule "specsAnalyser"]
 	path = specsAnalyser
 	url = https://github.com/areaDetector/specsAnalyser.git
+[submodule "xspress3"]
+	path = xspress3
+	url = https://github.com/NSLS-II/xspress3.git
+	branch = add_xspress3
